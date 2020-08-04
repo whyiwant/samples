@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/whyiwant/samples)](https://repl.it/github/whyiwant/samples)
+
 [![Build Status](https://travis-ci.org/GoogleChrome/samples.svg?branch=gh-pages)](https://travis-ci.org/GoogleChrome/samples)
 
 Google Chrome Samples
